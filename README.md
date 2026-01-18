@@ -19,3 +19,7 @@ print(shutil.which("uv"))```
 
 ## use this command from your virtual env
 ```/Users/amanladkat/Desktop/Agentic AI Project/AI_Trip_Planner/env/bin/activate```
+
+```streamlit run streamlit_app.py```
+
+```uvicorn main:app --reload --port 8000```
